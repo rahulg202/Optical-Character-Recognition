@@ -5,3 +5,5 @@ Optical Character Recognition (OCR) is the process of converting images containi
 * TrOCR: A transformer-based model for text recognition, known for its accuracy in challenging scenarios.
   
 Both models perform well on handwritten and printed text but face challenges when dealing with curved text (e.g., text on spherical surfaces or wavy layouts). To address this limitation, we fine-tuned the TrOCR model on a custom dataset consisting of curved text images, improving its performance for this specific use case. The aim is to highlight the strengths and weaknesses of each approach and help users choose the best model for their specific needs.
+
+![image](https://github.com/user-attachments/assets/4d26f2d7-5e55-442e-9763-369bf32ee010)
